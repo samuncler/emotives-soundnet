@@ -66,7 +66,7 @@ python extract_feat.py -m {start layer number} -x {end layer numbe} -s
 ```
 
 Then you can compare the outputs with torch ones.
-
+test
 -----
 
 *Feature Extraction*
